@@ -1,0 +1,7 @@
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\obj\Debug\kalapacsvetes.csproj.AssemblyReference.cache
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\obj\Debug\kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\bin\Debug\kalapacsvetes.exe.config
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\bin\Debug\kalapacsvetes.exe
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\bin\Debug\kalapacsvetes.pdb
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\obj\Debug\kalapacsvetes.exe
+C:\Users\FRZBÖFF\Desktop\Iskola\cs\kalapacsvetes\obj\Debug\kalapacsvetes.pdb
